@@ -6,12 +6,7 @@ Full Stack Software Engineer and Tutor
 
 I've been coding professionally for 4+ years. Outside of my 9-5, i enjoy volunteering to get people started in their tech careers via tutoring and mentorship programmes.
 
-* 🌍  I'm based in London
-* ✉️  You can contact me at [anifahbhad@gmail.com](mailto:anifahbhad@gmail.com)
-* ⚡  I love anime
-
 ### Skills
-
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -29,4 +24,4 @@ I've been coding professionally for 4+ years. Outside of my 9-5, i enjoy volunte
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Anifahb"><img src="https://github-readme-stats.vercel.app/api?username=Anifahb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Anifahb's GitHub stats" /></a>
+<a href="http://www.github.com/Anifahb"><img src="https://github-readme-stats.vercel.app/api?username=Anifahb&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats" /></a>
